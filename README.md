@@ -7,6 +7,6 @@ Esta es una aplicación web/móvil diseñada para conectar animales, en hogares 
 *Curso: Desarro Web FullStack
 *Materia: Componente Técnico
 *Institución: Institución Universitaria Pontificia Bolivariana
-*Integrantes: María Camila Goes Rodriguez
+*Integrantes: María Camila Rodríguez Góez
             * María Camila Toro Rodríguez
 *Versión:** 1.0.0 - Fase de Estructura
