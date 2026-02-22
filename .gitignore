@@ -1,0 +1,7 @@
+# Archivos del Sistema
+.DS_Store
+Thumbs.db
+destkop.ini
+
+# Configuración de VS Code
+.vscode/
